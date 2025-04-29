@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi 🌸
+
+I'm Zosia, a Master's student in Data Science at the Silesian University of Technology.  
+I have a background in Automation and Robotics, and I'm passionate about using data and deep learning algorithms to solve real-world problems.
+
+- 🐜 I’m currently learning about evolutionary strategies, deep learning, and advanced data analysis techniques.
+- 🦋 Always curious about AI, intelligent systems, and how modern technology can be used creatively.
+
 
 <!--
 **zosiasewe/zosiasewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
