@@ -3,7 +3,7 @@
 I'm Zosia, a Master's student in Data Science at the Silesian University of Technology.  
 I have a background in Automation and Robotics, and I'm passionate about using data and deep learning algorithms to solve real-world problems.
 
-- 📚 I'm currently working on a collab project on Fuzzy Data Analysis.
+- 📚 I'm currently working on a collab project on Fuzzy Data Analysis in python and Scientific Computing project in C++.
 - 🎆 I’m currently learning about evolutionary strategies, deep learning, and advanced data analysis techniques.
 - 🧬 Always curious about AI, data science.
 - 🎨 I love art. Kinetic sculptures are my thing.
