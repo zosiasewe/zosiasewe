@@ -5,8 +5,9 @@ I have a background in Automation and Robotics, and I'm passionate about using d
 
 - 📚 Soon will be working in a "Brain Computer Interface" project. Can't wait!!
 - 📚 Soon will be working on my Masters thesis project : "Comparative analysis of methods for segmentation of the tumour area in MRI images of the head". Also can't wait ^-^.
-- 📚 I'm currently working on a collab project on Fuzzy Data Analysis in Python.
-- 🎆 I’m currently learning about evolutionary strategies, deep learning, and advanced data analysis techniques.
+- 🫡 I'm currently working on a ML project with breast cancer image processing. 
+- 🫡 I'm currently working on a collab project on Fuzzy Data Analysis in Python.
+- 🎆 I’m currently learning about medtech, brain tumors, brain anatomy.
 - 🧬 Always curious about AI, data science, medtech.
 - 🎨 I love art. Kinetic sculptures are my thing.
 
