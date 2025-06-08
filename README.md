@@ -66,4 +66,4 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 
 ---
 
-✨ *Always curious. Always creating.*
+ *Always curious. Always creating.*
