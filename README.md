@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Zosia!</h1>
+<h1 align="center">Hi!  I'm Zosia!</h1>
 <h3 align="center">🎓 Master's student in Data Science | 🤖 Background in Automation & Robotics | 🧠 Deep Learning Enthusiast</h3>
 
 ---
 
-🌟 **About Me**
+ **About Me**
 
 I'm currently pursuing a Master's in Data Science at the **Silesian University of Technology**, with a strong background in Automation and Robotics. I love using data, algorithms, and creativity to tackle real-world problems – especially in healthcare and medtech!
 
 ---
 
-🧠 **What I'm up to:**
+ **What I'm up to:**
 
 - 🧪 Working on a **Machine Learning project** focused on **breast cancer image processing**
 - 🤝 Collaborating on a **Fuzzy Data Analysis** project using Python
@@ -19,18 +19,18 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 
 ---
 
-🌱 **Currently learning:**
+ **Currently learning:**
 
-- 🧬 Brain anatomy, brain tumors & medtech
-- 🧠 AI applications in healthcare
+-  Brain anatomy, brain tumors & medtech
+-  AI applications in healthcare
 
 ---
 
-💬 **Talk to me about:**
+ **Talk to me about:**
 
 - Data Science & AI
 - Medical imaging & neuroscience
-- Cool stuff like **kinetic sculptures** (yes, I love art 🎨)
+- Cool stuff like **kinetic sculptures** 
 
 ---
 
