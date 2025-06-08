@@ -34,7 +34,7 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left"> Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/zofia-seweryńska-462263234" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Zofia Seweryńska" height="30" width="30" />
@@ -43,7 +43,7 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left"> Languages & Tools </h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://cran.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a>
@@ -58,7 +58,7 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3> Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zosiasewe&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
