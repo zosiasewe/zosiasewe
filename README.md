@@ -12,7 +12,6 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
  **What I'm up to:**
 
 - 🧪 Working on a **Machine Learning project** focused on **breast cancer image processing**
-- 🤝 Collaborating on a **Fuzzy Data Analysis** project using Python
 - 📚 Preparing to join a **Brain-Computer Interface (BCI)** research project – *can’t wait!*
 - 🎓 Starting work on my **Master’s Thesis**:  
   *"Comparative analysis of methods for segmentation of tumour areas in MRI head images"*
