@@ -12,8 +12,7 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
  **What I'm up to:**
 
 - 🧪 Working on a **Machine Learning project** focused on **breast cancer image processing**
-- 🧪 Working on a **Machine Learning project** focused on **EEG signal processing**
-- 📚 Preparing to join a **Brain-Computer Interface (BCI)** research project – *can’t wait!*
+- 🧪 Working on a **Machine Learning project** focused on **EEG signal processing** in a **Brain-Computer Interface (BCI)** research project
 - 🎓 Starting work on my **Master’s Thesis**:  
   *"Comparative analysis of methods for segmentation of tumour areas in MRI head images"*
 
@@ -23,6 +22,7 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 
 -  Brain anatomy, brain tumors & medtech
 -  AI applications in healthcare
+-  EEG signals, EEG Machines
 
 ---
 
