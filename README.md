@@ -1,5 +1,5 @@
 <h1 align="center">Hi!  I'm Zosia!</h1>
-<h3 align="center">🎓 Master's student in Data Science | 🤖 Background in Automation & Robotics | 🧠 Deep Learning Enthusiast</h3>
+<h3 align="center"> Master's student in Data Science |  Background in Automation & Robotics |  Deep Learning Enthusiast</h3>
 
 ---
 
