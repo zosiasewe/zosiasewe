@@ -18,7 +18,7 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 ---
 
  **Currently learning:**
-
+-  Biomedical signals
 -  Brain anatomy, brain tumors & medtech
 -  AI applications in healthcare
 -  EEG signals, EEG Machines
