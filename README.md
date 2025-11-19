@@ -21,14 +21,14 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 -  Biomedical signals
 -  Brain anatomy, brain tumors & medtech
 -  AI applications in healthcare
--  EEG signals, EEG Machines
+-  Cosmos stuff
 
 ---
 
  **Talk to me about:**
 
 - Data Science & AI
-- Medical imaging & neuroscience
+- Medical imaging & neuroscience & Space
 - Cool stuff like **kinetic sculptures** 
 
 ---
