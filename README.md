@@ -18,8 +18,9 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 ---
 
  **Currently learning:**
+-  Digital twins
 -  Biomedical signals
--  Brain anatomy, brain tumors & medtech
+-  Brain anatomy, brain tumors
 -  AI applications in healthcare
 -  Cosmos stuff
 
