@@ -12,17 +12,17 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
  **What I'm up to:**
 
 - 👩‍🔬 Writing an Academic Paper 👩‍🔬
-- 🎓 Starting work on my **Master’s Thesis**:  
+-  Working on my **Master’s Thesis**:  
   *"Comparative analysis of methods for segmentation of tumour areas in MRI head images"*
 
 ---
 
- **Currently learning:**
--  Digital twins
+ **Currently learning about:**
+-  Cosmos, space 
 -  Biomedical signals
 -  Brain anatomy, brain tumors
 -  AI applications in healthcare
--  Cosmos stuff
+-  Bioinformatics and Statistics
 
 ---
 
@@ -30,7 +30,7 @@ I'm currently pursuing a Master's in Data Science at the **Silesian University o
 
 - Data Science & AI
 - Medical imaging & neuroscience & Space
-- Cool stuff like **kinetic sculptures** 
+- Cool stuff like **kinetic sculptures** and **art**
 
 ---
 
