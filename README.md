@@ -5,14 +5,14 @@
 
  **About Me**
 
-I'm currently pursuing a Master's in Data Science at the **Silesian University of Technology**, with a strong background in Automation and Robotics. I love using data, algorithms, and creativity to tackle real-world problems – especially in healthcare and medtech!
+I just finished my Master's in Data Science at the **Silesian University of Technology**. I have a strong background in Automation and Robotics. I love using data, algorithms, and creativity to resolve problems/ answer questions in healthcare and medtech.
 
 ---
 
  **What I'm up to:**
 
-- 👩‍🔬 Writing an Academic Paper 👩‍🔬
--  Working on my **Master’s Thesis**:  
+- 👩‍🔬 Waiting for my Paper to be published 👩‍🔬
+-  Finishing repo with my **Master’s Thesis**:  
   *"Comparative analysis of methods for segmentation of tumour areas in MRI head images"*
 
 ---
